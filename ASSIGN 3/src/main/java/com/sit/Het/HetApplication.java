@@ -1,13 +1,13 @@
-package com.sit.Anushree;
+package com.sit.Het;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnushreeApplication {
+public class HetApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AnushreeApplication.class, args);
+		SpringApplication.run(HetApplication.class, args);
 	}
 
 }
